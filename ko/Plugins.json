@@ -1,0 +1,487 @@
+{
+    "gameExtensionStrings": {
+        "sprite-path": "./img/html-ui/sprites.png",
+        "snackbar-templates": [
+            {
+                "name": "추격전중",
+                "text": "지금은 확인할 틈이 없다."
+            },
+            {
+                "name": "소모 아이템",
+                "text": "{0} +{1}"
+            },
+            {
+                "name": "소모 사용",
+                "text": "{0}을(를) {1}개 사용했다"
+            },
+            {
+                "name": "템부족",
+                "text": "{0} 아이템이 부족하다"
+            },
+            {
+                "name": "문잠김",
+                "text": "문이 잠겨있다."
+            },
+            {
+                "name": "템사용",
+                "text": "{0} 을(를) 사용했다."
+            },
+            {
+                "name": "문안열림",
+                "text": "열리지 않는다."
+            },
+            {
+                "name": "추격중휴대폰사용",
+                "text": "휴대폰을 확인할 틈이 없다."
+            },
+            {
+                "name": "길막",
+                "text": "내 앞의 사물이 길을 방해하고 있다."
+            },
+            {
+                "name": "템획득",
+                "text": "{0} 획득"
+            },
+            {
+                "name": "템없음1",
+                "text": "먼지가 가득하다."
+            },
+            {
+                "name": "템없음2",
+                "text": "눈에 띄는 물건은 없다."
+            },
+            {
+                "name": "템없음3",
+                "text": "흥미로운 점은 보이지 않는다."
+            },
+            {
+                "name": "템없음4",
+                "text": "잡동사니 뿐이다."
+            },
+            {
+                "name": "템없음5",
+                "text": "쓸모있는 물건은 보이지 않는다."
+            },
+            {
+                "name": "템없음6",
+                "text": "옆에서 봐도 특별한 점은 없다."
+            },
+            {
+                "name": "추격전_막힌맵",
+                "text": "여기로는 도망칠 수 없다!"
+            }
+        ],
+        "stat-playtime-title": "플레이 타임",
+        "stat-pointers": [
+            {
+                "title": "플로피 디스크를 사용한 횟수",
+                "format": "{v}회",
+                "id": "84",
+                "visible": "false"
+            },
+            {
+                "title": "",
+                "format": "",
+                "id": "0",
+                "visible": "false"
+            },
+            {
+                "title": "추격에서 탈출한 횟수",
+                "format": "{v}",
+                "id": "85",
+                "visible": "true"
+            },
+            {
+                "title": "조우한 폴터가이스트 갯수",
+                "format": "{v}/20",
+                "id": "86",
+                "visible": "true"
+            },
+            {
+                "title": "조우한 적의 종류",
+                "format": "{v}/20",
+                "id": "87",
+                "visible": "true"
+            }
+        ],
+        "ffw-frame": "./img/html-ui/ffw-frame.png",
+        "phonemenu-title": "대화할 내용을 선택하십시오.",
+        "phonemenu-empty": "지금은 대화할 수 있는 내용이 없습니다.",
+        "phonemenu-list": [
+            {
+                "key": "511",
+                "title": "뭘 해야 하지?"
+            },
+            {
+                "key": "512",
+                "title": "교무실은 어디에?"
+            },
+            {
+                "key": "513",
+                "title": "퓨즈를 얻었어"
+            },
+            {
+                "key": "514",
+                "title": "그림자를 찾고 있어"
+            },
+            {
+                "key": "515",
+                "title": "책을 찾고 있어"
+            },
+            {
+                "key": "516",
+                "title": "방화 셔터 열쇠를 찾았어."
+            }
+        ],
+        "input-notice-map": [
+            {
+                "key": "Desktop",
+                "hide": "false",
+                "align": "",
+                "data": [
+                    {
+                        "key": "debugmenu",
+                        "text": "LShift",
+                        "notice": "디버그 메뉴"
+                    },
+                    {
+                        "key": "up",
+                        "text": "^",
+                        "notice": "상"
+                    },
+                    {
+                        "key": "down",
+                        "text": "v",
+                        "notice": "하"
+                    },
+                    {
+                        "key": "left",
+                        "text": "<",
+                        "notice": "좌"
+                    },
+                    {
+                        "key": "right",
+                        "text": ">",
+                        "notice": "우"
+                    },
+                    {
+                        "key": "move",
+                        "text": "방향키",
+                        "notice": "이동"
+                    },
+                    {
+                        "key": "movefirst",
+                        "text": "방향키",
+                        "notice": "이동하기"
+                    },
+                    {
+                        "key": "select",
+                        "text": "Z",
+                        "notice": "선택"
+                    },
+                    {
+                        "key": "confirm",
+                        "text": "Z",
+                        "notice": "확인"
+                    },
+                    {
+                        "key": "use",
+                        "text": "Z",
+                        "notice": "사용"
+                    },
+                    {
+                        "key": "search",
+                        "text": "Z",
+                        "notice": "조사하기"
+                    },
+                    {
+                        "key": "cancel",
+                        "text": "X",
+                        "notice": "취소"
+                    },
+                    {
+                        "key": "close",
+                        "text": "X",
+                        "notice": "닫기"
+                    },
+                    {
+                        "key": "menu",
+                        "text": "X",
+                        "notice": "핸드폰 꺼내기"
+                    },
+                    {
+                        "key": "walk",
+                        "text": "LShift+방향키",
+                        "notice": "조용히 걷기"
+                    },
+                    {
+                        "key": "option-edit",
+                        "text": "<,>",
+                        "notice": "설정 변경"
+                    },
+                    {
+                        "key": "option-close",
+                        "text": "X",
+                        "notice": "적용 후 나가기"
+                    },
+                    {
+                        "key": "call-pickup",
+                        "text": "Z",
+                        "notice": "전화 받기"
+                    },
+                    {
+                        "key": "call-ignore",
+                        "text": "X",
+                        "notice": "전화 끊기"
+                    },
+                    {
+                        "key": "vaultDial-move",
+                        "text": "<, >",
+                        "notice": "다이얼 회전"
+                    }
+                ]
+            },
+            {
+                "key": "Mobile",
+                "hide": "true",
+                "align": "center",
+                "data": [
+                    {
+                        "key": "debugmenu",
+                        "text": "LShift",
+                        "notice": "디버그 메뉴"
+                    },
+                    {
+                        "key": "up",
+                        "text": "^",
+                        "notice": "상"
+                    },
+                    {
+                        "key": "down",
+                        "text": "v",
+                        "notice": "하"
+                    },
+                    {
+                        "key": "left",
+                        "text": "<",
+                        "notice": "좌"
+                    },
+                    {
+                        "key": "right",
+                        "text": ">",
+                        "notice": "우"
+                    },
+                    {
+                        "key": "move",
+                        "text": "방향키",
+                        "notice": "이동"
+                    },
+                    {
+                        "key": "movefirst",
+                        "text": "방향키",
+                        "notice": "이동하기"
+                    },
+                    {
+                        "key": "select",
+                        "text": "Z",
+                        "notice": "선택"
+                    },
+                    {
+                        "key": "confirm",
+                        "text": "Z",
+                        "notice": "확인"
+                    },
+                    {
+                        "key": "use",
+                        "text": "Z",
+                        "notice": "사용"
+                    },
+                    {
+                        "key": "search",
+                        "text": "Z",
+                        "notice": "조사하기"
+                    },
+                    {
+                        "key": "cancel",
+                        "text": "X",
+                        "notice": "취소"
+                    },
+                    {
+                        "key": "close",
+                        "text": "X",
+                        "notice": "닫기"
+                    },
+                    {
+                        "key": "menu",
+                        "text": "X",
+                        "notice": "핸드폰 꺼내기"
+                    },
+                    {
+                        "key": "walk",
+                        "text": "LShift",
+                        "notice": "조용히 걷기"
+                    },
+                    {
+                        "key": "option-close",
+                        "text": "X",
+                        "notice": "적용 후 나가기"
+                    },
+                    {
+                        "key": "option-edit",
+                        "text": "<,>",
+                        "notice": "설정 변경"
+                    },
+                    {
+                        "key": "call-pickup",
+                        "text": "Z",
+                        "notice": "전화 받기"
+                    },
+                    {
+                        "key": "call-ignore",
+                        "text": "X",
+                        "notice": "전화 끊기"
+                    },
+                    {
+                        "key": "vaultDial-move",
+                        "text": "<, >",
+                        "notice": "다이얼 회전"
+                    }
+                ]
+            },
+            {
+                "key": "Xbox",
+                "hide": "false",
+                "align": "",
+                "data": [
+                    {
+                        "key": "debugmenu",
+                        "text": "ⓧ",
+                        "notice": "디버그 메뉴"
+                    },
+                    {
+                        "key": "up",
+                        "text": "^",
+                        "notice": "상"
+                    },
+                    {
+                        "key": "down",
+                        "text": "v",
+                        "notice": "하"
+                    },
+                    {
+                        "key": "left",
+                        "text": "<",
+                        "notice": "좌"
+                    },
+                    {
+                        "key": "right",
+                        "text": ">",
+                        "notice": "우"
+                    },
+                    {
+                        "key": "move",
+                        "text": "＋",
+                        "notice": "이동"
+                    },
+                    {
+                        "key": "movefirst",
+                        "text": "ⓛ＋",
+                        "notice": "이동하기"
+                    },
+                    {
+                        "key": "select",
+                        "text": "ⓐ",
+                        "notice": "선택"
+                    },
+                    {
+                        "key": "confirm",
+                        "text": "ⓐ",
+                        "notice": "확인"
+                    },
+                    {
+                        "key": "use",
+                        "text": "ⓐ",
+                        "notice": "사용"
+                    },
+                    {
+                        "key": "search",
+                        "text": "ⓐ",
+                        "notice": "조사하기"
+                    },
+                    {
+                        "key": "cancel",
+                        "text": "ⓑ",
+                        "notice": "취소"
+                    },
+                    {
+                        "key": "close",
+                        "text": "ⓑ",
+                        "notice": "닫기"
+                    },
+                    {
+                        "key": "menu",
+                        "text": "ⓨ",
+                        "notice": "핸드폰 꺼내기"
+                    },
+                    {
+                        "key": "walk",
+                        "text": "＋+ⓧ",
+                        "notice": "조용히 걷기"
+                    },
+                    {
+                        "key": "option-close",
+                        "text": "ⓑ",
+                        "notice": "적용 후 나가기"
+                    },
+                    {
+                        "key": "option-edit",
+                        "text": "<,>",
+                        "notice": "설정 변경"
+                    },
+                    {
+                        "key": "call-pickup",
+                        "text": "ⓐ",
+                        "notice": "전화 받기"
+                    },
+                    {
+                        "key": "call-ignore",
+                        "text": "ⓑ",
+                        "notice": "전화 끊기"
+                    },
+                    {
+                        "key": "vaultDial-move",
+                        "text": "<, >",
+                        "notice": "다이얼 회전"
+                    }
+                ]
+            }
+        ],
+        "target-controller": "게임패드",
+        "target-controller-disconnected": "연결 안 됨",
+        "target-controller-anykey": "컨트롤러 입력 대기중",
+        "game-over-hints": [
+            [
+                "그림자",
+                "{n}는 가까이 있으면 들킵니다.\n최대한 멀리 떨어지십시오."
+            ],
+            [
+                "검은 손",
+                "{n}은 앞을 보지 못합니다.\n거리를 벌린 후 천천히 걸어다니십시오."
+            ],
+            [
+                ""
+            ],
+            [
+                "해골",
+                "{n}은 시야가 짧습니다.\n최대한 멀리 도망가십시오."
+            ]
+        ]
+    },
+    "FontAtlas": {
+        "font": "Waffleche.fnt",
+        "path": "./fonts/"
+    },
+    "NippleJSJoypad": {
+        "controller-size-text": "터치 컨트롤러 크기"
+    }
+}
