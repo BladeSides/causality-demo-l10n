@@ -75,7 +75,7 @@
         "stat-pointers": [
             {
                 "title": "Times Floppy Disk Used",
-                "format": "{v}회",
+                "format": "{v} Time(s)",
                 "id": "84",
                 "visible": "false"
             },
