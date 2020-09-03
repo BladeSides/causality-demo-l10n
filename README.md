@@ -5,3 +5,8 @@ on our [web game demo](https://creffect.com/project/causality-game/demo/index.ht
 
 Also you can download standalone game on here!  
 [Download](https://creffect.com/project/causality-game/download/demo.zip)
+
+# Localization progress
+
+- Korean (Source)
+- English (2 of 27 done, images not done yet.)
