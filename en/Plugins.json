@@ -461,18 +461,18 @@
         "target-controller-anykey": "Waiting for Input.",
         "game-over-hints": [
             [
-                "Shadow",
+                "Shadow - ",
                 "{n}You will be caught if you're too close.\nStay away."
             ],
             [
-                "Black Hand",
+                "Black Hand - ",
                 "{n}Can't see ahead.\nMake distance and walk slowly."
             ],
             [
                 ""
             ],
             [
-                "해골",
+                "Skull - ",
                 "{n}Short sighted.\nStay away as far as possible."
             ]
         ]
