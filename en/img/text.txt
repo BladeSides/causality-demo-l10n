@@ -1,0 +1,96 @@
+html-ui/ffw-frame.png
+> 누르고 있으면 스킵
+
+pictures/computer_cad.png
+> 다른층 보기
+
+pictures/computer_cmd.png
+> 지도-DOS Prompt
+
+pictures/computer_cmd_line2.png
+> 파일 불러오기 완료
+
+pictures/computer_error.png
+> A:\을(를) 액세스할 수 없습니다.
+> 플로피 디스크를 삽입하십시오.
+
+pictures/computer_exeplorer.png
+> 내 컴퓨터
+> 파일 편집 도움말
+> 4개 항목
+> 남은 플로피 디스크 :
+
+pictures/computer_internet.png
+> 인터넷
+> 내 정보 / 교육행사 / 교육상담
+> 새천년 학생 평가 데이터베이스 에/듀/스/태/츠
+> 교육정보원
+
+pictures/computer_map_1F.png
+> 컴퓨터
+> 현재위치
+
+pictures/computer_map_2F.png
+pictures/computer_map_3F.png
+pictures/computer_map_4F.png
+pictures/computer_map_5F.png
+pictures/computer_map_B1.png
+> 데모 빌드에선 지원하지 않습니다.
+
+pictures/computer_poweroff_text.png
+> 이제 시스템 전원을 끄셔도 됩니다.
+
+pictures/notice_1.png
+> 경고
+> 본 게임은 잔인하거나 깜짝 놀랄 수 있는 연출 및
+> 그로테스크한 연출이 포함되어 있습니다.
+
+pictures/notice_2.png
+> 본 게임에 등장하는 지명, 사건, 등장인물의 이름은
+> 모두 허구이며, 유사성이 있다 해도
+> 의도하지 않은 우연의 일치입니다.
+
+pictures/notice_3.png
+> 본 게임은 완성되지 않은 베타 버전입니다.
+
+pictures/Phone_background.png
+> 아이템
+> 전화
+> 옵션
+> 게임종료
+> 커서 / OK / 나가기
+
+pictures/Phone_background_call.png
+> 전화가 왔습니다.
+> OK / 나가기
+
+pictures/Phone_background_calling.png
+> 통화 중....
+> OK / 나가기
+
+pictures/Phone_Select_Item.png
+> 아이템
+
+pictures/Phone_Select_call.png
+> 전화
+
+pictures/Phone_Select_option.png
+> 옵션
+
+pictures/Phone_Select_exit.png
+> 게임종료
+
+system/BtnMap.png
+> 지도
+
+system/BtnNet.png
+> 인터넷
+
+system/BtnSave.png
+> 저장
+
+system/BtnShutdown.png
+> 종료
+
+titles1/title.png
+> 因果律

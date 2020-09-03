@@ -1,0 +1,487 @@
+{
+    "gameExtensionStrings": {
+        "sprite-path": "./img/html-ui/sprites.png",
+        "snackbar-templates": [
+            {
+                "name": "추격전중",
+                "text": "There's no time to check!"
+            },
+            {
+                "name": "소모 아이템",
+                "text": "{0} +{1}"
+            },
+            {
+                "name": "소모 사용",
+                "text": "{0} {1} used."
+            },
+            {
+                "name": "템부족",
+                "text": "{0} lacks items."
+            },
+            {
+                "name": "문잠김",
+                "text": "The door is locked."
+            },
+            {
+                "name": "템사용",
+                "text": "{0} was used."
+            },
+            {
+                "name": "문안열림",
+                "text": "Doesn't open."
+            },
+            {
+                "name": "추격중휴대폰사용",
+                "text": "There's no time to check the phone!"
+            },
+            {
+                "name": "길막",
+                "text": "The way is blocked!"
+            },
+            {
+                "name": "템획득",
+                "text": "{0} acquired."
+            },
+            {
+                "name": "템없음1",
+                "text": "Dusty."
+            },
+            {
+                "name": "템없음2",
+                "text": "Nothing special here."
+            },
+            {
+                "name": "템없음3",
+                "text": "Nothing standing out."
+            },
+            {
+                "name": "템없음4",
+                "text": "It's all messed up."
+            },
+            {
+                "name": "템없음5",
+                "text": "Ignore the useless stuff."
+            },
+            {
+                "name": "템없음6",
+                "text": "Nothing special from this angle."
+            },
+            {
+                "name": "추격전_막힌맵",
+                "text": "Can't escape!"
+            }
+        ],
+        "stat-playtime-title": "Playtime",
+        "stat-pointers": [
+            {
+                "title": "Times Floppy Disk Used",
+                "format": "{v} Time(s)",
+                "id": "84",
+                "visible": "false"
+            },
+            {
+                "title": "",
+                "format": "",
+                "id": "0",
+                "visible": "false"
+            },
+            {
+                "title": "Times Escaped Chase:",
+                "format": "{v}",
+                "id": "85",
+                "visible": "true"
+            },
+            {
+                "title": "Unnaturals encountered:",
+                "format": "{v}/20",
+                "id": "86",
+                "visible": "true"
+            },
+            {
+                "title": "Types of enemies encountered: ",
+                "format": "{v}/20",
+                "id": "87",
+                "visible": "true"
+            }
+        ],
+        "ffw-frame": "./img/html-ui/ffw-frame.png",
+        "phonemenu-title": "Choose who to call.",
+        "phonemenu-empty": "No one to call.",
+        "phonemenu-list": [
+            {
+                "key": "511",
+                "title": "What should I do?"
+            },
+            {
+                "key": "512",
+                "title": "Where's the teaching office?"
+            },
+            {
+                "key": "513",
+                "title": "Got a fuse."
+            },
+            {
+                "key": "514",
+                "title": "Looking for a shadow."
+            },
+            {
+                "key": "515",
+                "title": "Looking for a book."
+            },
+            {
+                "key": "516",
+                "title": "Found the fire shutter key."
+            }
+        ],
+        "input-notice-map": [
+            {
+                "key": "Desktop",
+                "hide": "false",
+                "align": "",
+                "data": [
+                    {
+                        "key": "debugmenu",
+                        "text": "LShift",
+                        "notice": "Debug Menu"
+                    },
+                    {
+                        "key": "up",
+                        "text": "^",
+                        "notice": "Up"
+                    },
+                    {
+                        "key": "down",
+                        "text": "v",
+                        "notice": "Down"
+                    },
+                    {
+                        "key": "left",
+                        "text": "<",
+                        "notice": "Left"
+                    },
+                    {
+                        "key": "right",
+                        "text": ">",
+                        "notice": "Right"
+                    },
+                    {
+                        "key": "move",
+                        "text": "Arrow Keys",
+                        "notice": "Move"
+                    },
+                    {
+                        "key": "movefirst",
+                        "text": "Arrow Keys",
+                        "notice": "Move"
+                    },
+                    {
+                        "key": "select",
+                        "text": "Z",
+                        "notice": "Select"
+                    },
+                    {
+                        "key": "confirm",
+                        "text": "Z",
+                        "notice": "Confirm"
+                    },
+                    {
+                        "key": "use",
+                        "text": "Z",
+                        "notice": "Use"
+                    },
+                    {
+                        "key": "search",
+                        "text": "Z",
+                        "notice": "Search"
+                    },
+                    {
+                        "key": "cancel",
+                        "text": "X",
+                        "notice": "Cancel"
+                    },
+                    {
+                        "key": "close",
+                        "text": "X",
+                        "notice": "Close"
+                    },
+                    {
+                        "key": "menu",
+                        "text": "X",
+                        "notice": "Menu"
+                    },
+                    {
+                        "key": "walk",
+                        "text": "LShift+Arrow Keys",
+                        "notice": "Walk"
+                    },
+                    {
+                        "key": "option-edit",
+                        "text": "<,>",
+                        "notice": "Change Settings"
+                    },
+                    {
+                        "key": "option-close",
+                        "text": "X",
+                        "notice": "Close Settings"
+                    },
+                    {
+                        "key": "call-pickup",
+                        "text": "Z",
+                        "notice": "Pick Call"
+                    },
+                    {
+                        "key": "call-ignore",
+                        "text": "X",
+                        "notice": "Ignore Call"
+                    },
+                    {
+                        "key": "vaultDial-move",
+                        "text": "<, >",
+                        "notice": "Rotate Dial"
+                    }
+                ]
+            },
+            {
+                "key": "Mobile",
+                "hide": "true",
+                "align": "center",
+                "data": [
+                    {
+                        "key": "debugmenu",
+                        "text": "LShift",
+                        "notice": "Debug Menu"
+                    },
+                    {
+                        "key": "up",
+                        "text": "^",
+                        "notice": "Up"
+                    },
+                    {
+                        "key": "down",
+                        "text": "v",
+                        "notice": "Down"
+                    },
+                    {
+                        "key": "left",
+                        "text": "<",
+                        "notice": "Left"
+                    },
+                    {
+                        "key": "right",
+                        "text": ">",
+                        "notice": "Right"
+                    },
+                    {
+                        "key": "move",
+                        "text": "Arrow Keys",
+                        "notice": "Move"
+                    },
+                    {
+                        "key": "movefirst",
+                        "text": "Arrow Keys",
+                        "notice": "Move"
+                    },
+                    {
+                        "key": "select",
+                        "text": "Z",
+                        "notice": "Select"
+                    },
+                    {
+                        "key": "confirm",
+                        "text": "Z",
+                        "notice": "Confirm"
+                    },
+                    {
+                        "key": "use",
+                        "text": "Z",
+                        "notice": "Use"
+                    },
+                    {
+                        "key": "search",
+                        "text": "Z",
+                        "notice": "Search"
+                    },
+                    {
+                        "key": "cancel",
+                        "text": "X",
+                        "notice": "Cancel"
+                    },
+                    {
+                        "key": "close",
+                        "text": "X",
+                        "notice": "Close"
+                    },
+                    {
+                        "key": "menu",
+                        "text": "X",
+                        "notice": "Menu"
+                    },
+                    {
+                        "key": "walk",
+                        "text": "LShift",
+                        "notice": "Walk"
+                    },
+                    {
+                        "key": "option-close",
+                        "text": "X",
+                        "notice": "Close Settings"
+                    },
+                    {
+                        "key": "option-edit",
+                        "text": "<,>",
+                        "notice": "Change Settings"
+                    },
+                    {
+                        "key": "call-pickup",
+                        "text": "Z",
+                        "notice": "Pick Call"
+                    },
+                    {
+                        "key": "call-ignore",
+                        "text": "X",
+                        "notice": "Ignore Call"
+                    },
+                    {
+                        "key": "vaultDial-move",
+                        "text": "<, >",
+                        "notice": "Rotate Dial"
+                    }
+                ]
+            },
+            {
+                "key": "Xbox",
+                "hide": "false",
+                "align": "",
+                "data": [
+                    {
+                        "key": "debugmenu",
+                        "text": "ⓧ",
+                        "notice": "Debug Menu"
+                    },
+                    {
+                        "key": "up",
+                        "text": "^",
+                        "notice": "Up"
+                    },
+                    {
+                        "key": "down",
+                        "text": "v",
+                        "notice": "Down"
+                    },
+                    {
+                        "key": "left",
+                        "text": "<",
+                        "notice": "Left"
+                    },
+                    {
+                        "key": "right",
+                        "text": ">",
+                        "notice": "Right"
+                    },
+                    {
+                        "key": "move",
+                        "text": "＋",
+                        "notice": "Move"
+                    },
+                    {
+                        "key": "movefirst",
+                        "text": "ⓛ＋",
+                        "notice": "Move Fiirst"
+                    },
+                    {
+                        "key": "select",
+                        "text": "ⓐ",
+                        "notice": "Select"
+                    },
+                    {
+                        "key": "confirm",
+                        "text": "ⓐ",
+                        "notice": "Confirm"
+                    },
+                    {
+                        "key": "use",
+                        "text": "ⓐ",
+                        "notice": "Use"
+                    },
+                    {
+                        "key": "search",
+                        "text": "ⓐ",
+                        "notice": "Search"
+                    },
+                    {
+                        "key": "cancel",
+                        "text": "ⓑ",
+                        "notice": "Cancel"
+                    },
+                    {
+                        "key": "close",
+                        "text": "ⓑ",
+                        "notice": "Close"
+                    },
+                    {
+                        "key": "menu",
+                        "text": "ⓨ",
+                        "notice": "Menu"
+                    },
+                    {
+                        "key": "walk",
+                        "text": "＋+ⓧ",
+                        "notice": "Walk"
+                    },
+                    {
+                        "key": "option-close",
+                        "text": "ⓑ",
+                        "notice": "Close Settings"
+                    },
+                    {
+                        "key": "option-edit",
+                        "text": "<,>",
+                        "notice": "Change Settings"
+                    },
+                    {
+                        "key": "call-pickup",
+                        "text": "ⓐ",
+                        "notice": "Pick Call"
+                    },
+                    {
+                        "key": "call-ignore",
+                        "text": "ⓑ",
+                        "notice": "Ignore Call"
+                    },
+                    {
+                        "key": "vaultDial-move",
+                        "text": "<, >",
+                        "notice": "Rotate Dial"
+                    }
+                ]
+            }
+        ],
+        "target-controller": "Gamepad",
+        "target-controller-disconnected": "Disconnected",
+        "target-controller-anykey": "Waiting for Input.",
+        "game-over-hints": [
+            [
+                "Shadow - ",
+                "{n}You will be caught if you're too close.\nStay away."
+            ],
+            [
+                "Black Hand - ",
+                "{n}Can't see ahead.\nMake distance and walk slowly."
+            ],
+            [
+                ""
+            ],
+            [
+                "Skull - ",
+                "{n}Short sighted.\nStay away as far as possible."
+            ]
+        ]
+    },
+    "FontAtlas": {
+        "font": "Waffleche.fnt",
+        "path": "./fonts/"
+    },
+    "NippleJSJoypad": {
+        "controller-size-text": "Touch Button Size"
+    }
+}
