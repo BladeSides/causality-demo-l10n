@@ -9,4 +9,4 @@ Also you can download standalone game on here!
 # Localization progress
 
 - Korean (Source)
-- English (2 of 27 done, images not done yet.)
+- English (2 of 27 done)
