@@ -42,114 +42,114 @@
         "I'll tell you what I know!"
     ],
     "511": [
-        "아까 전엔 열리지 않던 몇몇 문들이",
-        "열린 것 같던데.",
-        "갈 수 없던 곳에도 가보는 게 어때?",
-        "\\!갇힌 학생이 있을 지도 모르지.",
-        "갇혀있는 학생들은 총 3명.",
-        "\\!늦기 전에 서둘러 찾아야 해.",
-        "다른 층으로 가는 계단은 방화 셔터로 막혔군.",
-        "저걸 열 열쇠가 필요한데...",
-        "결국 저것도 학교 기물이니까",
-        "어딘가엔 열쇠가 있을 거야."
+        "Looks like some doors which were",
+        "closed now opened.",
+        "What about going where you couldn't?",
+        "\\!There might be a trapped student.",
+        "3 Total students are trapped.",
+        "\\!Need to find them as soon as possible.",
+        "The stairs were blocked by fire shutters.",
+        "I need a key to open that...",
+        "Since it is a school property,",
+        "There's bound to be a key somewhere."
     ],
     "512": [
-        "...교무실을 못 찾겠다고?",
-        "예전에 이 학교의 구조를 파악하기 위해",
-        "사전조사를 한 적이 있어.",
-        "각 방의 입구 옆에",
-        "이름이 적힌 문패가 있을 거야.",
-        "그걸 보면서 찾아가면",
-        "더 쉽게 찾을 수 있지 않을까.",
-        "참고로 교무실은 우측 복도에 있어."
+        "...Can't find the school office?",
+        "I used to research to understand",
+        "the structure of this school.",
+        "There will be your nameplate",
+        "Next to the entrance of each room.",
+        "Would be easier to search",
+        "if you looked for it.",
+        "The school office is in the right hallway."
     ],
     "513": [
-        "퓨즈를 얻었다고?",
-        "좋은 소식이군.",
-        "\\!발전기만 찾으면 되겠네.",
-        "퓨즈를 찾은 곳과",
-        "같은 곳에 있지 않을까 싶은데.",
-        "상호작용을 원하는 사물 앞에서 ",
-        "메뉴의 아이템 창을 열어",
-        "아이템을 사용할 수 있습니다."
+        "You have a fuse?",
+        "Good news!",
+        "\\!Just need to find the generator.",
+        "Wonder if it's the same place",
+        "Where the fuse was found.",
+        "Items can be used by opening",
+        "the item window from the menu",
+        "in front of the desired object."
     ],
     "514": [
-        "...그림자 못 봤냐고?",
-        "아까 전에 뭔가가 교무실 쪽으로",
-        "지나가긴 한 것 같은데.",
-        "한 번 찾아가 보는게 어때?"
+        "...Did you see the shadow?",
+        "I think something passed by",
+        "the school office before.",
+        "How about visiting for once?"
     ],
     "515": [
-        "두꺼운 책을 찾고 있다고?",
-        "교실에서 꽤나 두꺼워 보이는 책을 봤었어.",
-        "\\!좌측 복도에 있는 교실이었는데,",
-        "어느 반이었는지는 생각나질 않는군."
+        "Looking for a thick book?",
+        "I saw a thick book in the classroom.",
+        "\\!Was a classroom in the left hallway.,",
+        "Can't remember which class, though..."
     ],
     "516": [
-        "방화 셔터 열쇠를 찾았다고?",
-        "\\!좋은 소식이군.",
-        "이제 다른 층으로 갈 수 있겠어.",
-        "\\!1층에는 학생들이 없는 것 같거든.",
-        "단, \\!이곳 1층 정문에서 멀어질수록",
-        "실제 세상과의 연결도 약해질 거야.",
-        "멀리 떨어진 공간일수록",
-        "위험한 놈들도 돌아다니고 있겠지.",
-        "절대로 일이 잘못되어선 안돼.",
-        "\\!...뭐, \\!누구보다도 당신이 가장 잘 알겠지만."
+        "Found the fire shutter key?",
+        "\\!Good news!",
+        "Now I can move to the other floor.",
+        "\\!No students on 1F.",
+        "Although, \\!going further from 1F",
+        "entrance will weaken the signal..",
+        "Further the place is,",
+        "The more dangerous it gets.",
+        "Things can always go wrong...",
+        "\\!...Well, \\!you know what's best."
     ],
     "599": [
-        "지금은 사용하지 않아도 될 것 같다."
+        "I don't think I need to use it now."
     ],
     "601": [
-        "비상 발전기에 퓨즈를 장착했다."
+        "I put a fuse on the emergency generator."
     ],
     "603": [
-        "봉투를 건네줬다.",
-        "그래.\\! 처음부터 거짓말을 하지 말았어야지.",
-        "내놔 봐.",
-        "하, 이 새끼가 진짜...",
-        "솔직히 말해. \\!살짝 빼돌렸지?",
-        "\\!아니라고? \\!니가 직접 봐봐.",
-        "이게 말이 되는 액수로 보이냐?",
-        "나랑 싸우자는 거지?",
-        "\\!어디 한 번 계속 해봐."
+        "Hand over the envelope to proceed.",
+        "I see.\\! Shouldn't have lied earlier.",
+        "Give it to me.",
+        "And, the cubs are real...",
+        "Be honest. \\!Did you take it a bit?",
+        "\\!No? \\!Look out for yourself.",
+        "Does any of this make sense?",
+        "Are you fighting me?",
+        "\\!Go on."
     ],
     "604": [
         [
-            "책장에 책을 끼운다",
-            "아무것도 하지 않는다"
+            "I put a book in the shelf,",
+            "but it did nothing."
         ],
-        "책장에 책을 꽂았다.",
-        "무언가 떨어지는 소리가 들렸다.",
-        "...자세히 살펴보니 빈 페이지에",
-        "팩스로 출력된 듯한 글귀가 써져 있다.",
+        "I put a book in the shelf,",
+        "and I heard something fall.",
+        "...On a closer look, the blank page",
+        "has text which appears to be faxed.",
         [
-            "읽어본다",
-            "읽지 않는다"
+            "Read",
+            "Don't Read"
         ],
-        "보내주신 사과는 잘 받았습니다.",
-        "가족과 함께 먹었는데 참 달고 맛있더군요.",
-        "말씀해주신 실태점검 건에 대해서는",
-        "크게 걱정하지 않으셔도 됩니다.",
-        "저희 측에서도 쓸데없이 긁어 부스럼을 만들어서",
-        "귀찮아질 필요는 없지 않겠습니까.",
-        "X월 X일 11시에 저와 함께",
-        "2명 정도의 공무원들이 학교로 방문할 겁니다.",
-        "그 때 다시 찾아뵙겠습니다. 감사합니다."
+        "The apology you sent was well received.",
+        "I ate it with my family. Delicious.",
+        "Don't worry too much about the",
+        "mentioned condition check.",
+        "No need to be bothered by",
+        "scratching on our side.",
+        "X Month, X Day, 11 sharp",
+        "2 officials  will visit the school.",
+        "See you then. Thank you."
     ],
     "606": [
-        "드라이버를 건네줬다.",
-        "드라이버 가져왔어?",
-        "\\!그럼 어디 한번 볼까.",
-        "....하. 이 선이 또 빠진 거였어.",
-        "\\!어떤 미친놈이 느리다고 또 발로 찼나보네.",
-        "자, 이제 준비 다 끝났으니까 직접 방송 해봐.",
-        "\\!컴퓨터에 있는 마이크 버튼 누르면서",
-        "거기 써져있는 대본대로 읊으면 돼."
+        "Handed the driver.",
+        "Did you bring the driver?",
+        "\\!Let's see.",
+        "....Heh. Missing line again.",
+        "\\!Some guy kicked cause he was slow.",
+        "It's all prepared, try broadcasting.",
+        "\\!Press the microphone button and",
+        "read the script written there."
     ],
     "607": [
-        "열쇠를 사용하여 배전함의 잠금을 풀었다.",
-        "...그러나 아직 경첩에 번호 자물쇠가 남아 있다.",
-        "보건실 열쇠를 획득했다."
+        "The distribution box was unlocked.",
+        "...There's a number lock on the hinge.",
+        "Obtained the health room key."
     ]
 }
