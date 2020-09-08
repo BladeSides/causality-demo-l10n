@@ -22,24 +22,24 @@
         "\\C[2]With a strange sound",
         "If a nonsense phenomenon\\C[0] appears",
         "\\!Just try to get out of there.",
-        "방금 복도에서 큰 소리가 났었어.",
-        "\\!무슨 일이 있었던 거야?",
-        "...이번엔 큰 손처럼 생긴 녀석한테 쫓겼다고?",
-        "그건 \\C[2]검은 손\\C[0]이라는 녀석이야.",
-        "\\!골치 아픈 놈이지.",
-        "검은 손은 앞을 보지 못하는 대신",
-        "\\C[1]청각\\C[0]이 뛰어나.",
-        "물론, \\!그 놈이 바로 앞에 있어도",
-        "조용히 걸으면서 지나가면 별 탈 없을 거야.",
-        "쫓기는 중이라면 적당히 거리가 벌어졌을 때",
-        "천천히 걸어서, 그 장소를 벗어나도 되고."
+        "There was a loud noise in the hallway.",
+        "\\!What happened?",
+        "You were chased by a big hand guy?",
+        "There's a \\C[2]black hand\\C[0]guy.",
+        "\\!It's a headache.",
+        "Instead of seeing the black hand,",
+        "\\C[1]hearing\\C[0] it is excellent.",
+        "Sure, \\!even if he is in front of us.",
+        "Walk quietly and pass by to reduce burns.",
+        "If you're being chased, slowly open up",
+        "distance to make your escape."
     ],
     "500": [
         " "
     ],
     "510": [
-        "뭐 궁금한 거 있나?\\!",
-        "내가 아는 선에선 최대한 알려주지."
+        "Do you have any questions?\\!",
+        "I'll tell you what I know!"
     ],
     "511": [
         "아까 전엔 열리지 않던 몇몇 문들이",
