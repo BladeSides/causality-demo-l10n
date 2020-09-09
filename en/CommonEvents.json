@@ -16,16 +16,16 @@
         "I've been through a lot so far.",
         "\\!There's so many types.",
         "It's hard to say it...",
-        "I call it the \\C[1]ghost phenomenon\\C[0].",
-        "\\!The finest people disappear.",
-        "I'm doing a trick.",
-        "\\C[2]With a strange sound",
-        "If a nonsense phenomenon\\C[0] appears",
-        "\\!Just try to get out of there.",
+        "I call it the \\C[1]Poltergeist\\C[0].",
+        "\\!The small fry hide their faces.",
+        "and do little tricks.",
+        "If \\C[2]a strange sound",
+        "or any nonsense phenomenon\\C[0] appears",
+        "\\!just try to get out of there.",
         "There was a loud noise in the hallway.",
         "\\!What happened?",
-        "You were chased by a big hand guy?",
-        "There's a \\C[2]black hand\\C[0]guy.",
+        "You were chased by a big hand ghost?",
+        "There's a \\C[2]black hand\\C[0] ghost.",
         "\\!It's a headache.",
         "Instead of seeing the black hand,",
         "\\C[1]hearing\\C[0] it is excellent.",
@@ -39,7 +39,7 @@
     ],
     "510": [
         "Do you have any questions?\\!",
-        "I'll tell you what I know!"
+        "I'll tell you what I know."
     ],
     "511": [
         "Looks like some doors which were",
@@ -65,16 +65,16 @@
     ],
     "513": [
         "You have a fuse?",
-        "Good news!",
+        "That's good news!",
         "\\!Just need to find the generator.",
-        "Wonder if it's the same place",
+        "Wonder if it's in the same place",
         "Where the fuse was found.",
         "Items can be used by opening",
         "the item window from the menu",
         "in front of the desired object."
     ],
     "514": [
-        "...Did you see the shadow?",
+        "...Did you see that shadow?",
         "I think something passed by",
         "the school office before.",
         "How about visiting for once?"
@@ -116,8 +116,8 @@
     ],
     "604": [
         [
-            "I put a book in the shelf,",
-            "but it did nothing."
+            "Put book in shelf,",
+            "Do nothing."
         ],
         "I put a book in the shelf,",
         "and I heard something fall.",
@@ -141,15 +141,15 @@
         "Handed the driver.",
         "Did you bring the driver?",
         "\\!Let's see.",
-        "....Heh. Missing line again.",
-        "\\!Some guy kicked cause he was slow.",
+        "....Huh, the wire was pulled again.",
+        "\\!Some crazy might have kicked this computer because it's slow.",
         "It's all prepared, try broadcasting.",
         "\\!Press the microphone button and",
         "read the script written there."
     ],
     "607": [
         "The distribution box was unlocked.",
-        "...There's a number lock on the hinge.",
+        "...But there's a number lock on the hinge.",
         "Obtained the health room key."
     ]
 }
